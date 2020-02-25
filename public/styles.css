@@ -1,0 +1,8 @@
+.jumbotron {
+    min-height: 200px; 
+    background-attachment: fixed;
+    background-color:blueviolet;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:black;
+    text-shadow: 1px 1px 1px black}
